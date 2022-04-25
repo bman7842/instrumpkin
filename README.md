@@ -18,7 +18,12 @@ Vibration sensors were replaced with a single microphone for final design. Below
 ![final diagram](https://raw.githubusercontent.com/bmanTM/instrumpkin/2e3b48880942b0b04c983ad64d553cc3dc4fead3/demos/final_diagram.svg)
 
 ### Hardware Used
-- 
+- 2 x [ELEGOO UNO R3 Board](https://www.amazon.com/gp/product/B01EWOE0UU/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1) - Driving eye and mouth LCDs
+- 2 x [KEYESTUDIO TFT LCD](https://www.amazon.com/gp/product/B089SGJKB1/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) - Eye LCD
+- 1 x [HiLetgo TFT LCD](https://www.amazon.com/gp/product/B073R7Q8FF/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1) - Mouth LCD
+- 1 x Microphone, connects to audio-in on computer.
+- 1 x Speaker, connects to audio-out on computer.
 
 ### Demo
 Here's a brief video of the instrument being played!
+[![demo video](https://youtu.be/yttGHyif5KA)](https://youtu.be/yttGHyif5KA)

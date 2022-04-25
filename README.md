@@ -15,7 +15,7 @@ As depicted, the pumpkin would consist of a left and right vibration sensor for 
 
 ## Final Design
 Vibration sensors were replaced with a single microphone for final design. Below is a basic outline of how the system was built:
-![final diagram]()
+![final diagram](https://raw.githubusercontent.com/bmanTM/instrumpkin/2e3b48880942b0b04c983ad64d553cc3dc4fead3/demos/final_diagram.svg)
 
 ### Hardware Used
 - 

@@ -26,4 +26,5 @@ Vibration sensors were replaced with a single microphone for final design. Below
 
 ### Demo
 Here's a brief video of the instrument being played!
-[![demo video](https://youtu.be/yttGHyif5KA)](https://youtu.be/yttGHyif5KA)
+<br>
+[![demo video](https://img.youtube.com/vi/yttGHyif5KA/0.jpg)](https://www.youtube.com/watch?v=yttGHyif5KA)
